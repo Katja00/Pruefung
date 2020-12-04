@@ -100,3 +100,11 @@ C:\Users\Katja\Desktop\Pruefung\Pruefung\bin\Debug\netcoreapp3.1\System.Security
 C:\Users\Katja\Desktop\Pruefung\Pruefung\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
 C:\Users\Katja\Desktop\Pruefung\Pruefung\bin\Debug\netcoreapp3.1\Utf8Json.dll
 C:\Users\Katja\Desktop\Pruefung\Pruefung\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Katja\Desktop\Pruefung\Pruefung\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
+C:\Users\Katja\Desktop\Pruefung\Pruefung\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Katja\Desktop\Pruefung\Pruefung\bin\Debug\netcoreapp3.1\Pruefung.pdb
+C:\Users\Katja\Desktop\Pruefung\Pruefung\bin\Debug\netcoreapp3.1\Validation.dll
+C:\Users\Katja\Desktop\Pruefung\Pruefung\bin\Debug\netcoreapp3.1\Xunit.SkippableFact.dll
+C:\Users\Katja\Desktop\Pruefung\Pruefung\obj\Debug\netcoreapp3.1\Pruefung.csproj.CoreCompileInputs.cache
+C:\Users\Katja\Desktop\Pruefung\Pruefung\obj\Debug\netcoreapp3.1\Pruefung.dll
+C:\Users\Katja\Desktop\Pruefung\Pruefung\obj\Debug\netcoreapp3.1\Pruefung.pdb
